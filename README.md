@@ -47,7 +47,8 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1582" height="1122" alt="image" src="https://github.com/user-attachments/assets/ef4cdb68-d0d6-485d-81c3-c2bed248a043" />
+
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -66,7 +67,8 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="1530" height="1232" alt="image" src="https://github.com/user-attachments/assets/f9867112-8e94-4d9d-8629-09e4ec05847e" />
+
 
 **Figure 2:** Staircase wiring – cross connection
 
