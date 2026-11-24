@@ -78,10 +78,10 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | OFF|OFF |OFF |
+| 2 | OFF|ON |ON |
+| 3 | OFF| OFF| ON|
+| 4 | ON| ON| OFF|
 
 ## SIMULATION USING PROTEUS
 
